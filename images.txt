@@ -10,3 +10,4 @@ langgenius/dify-api:0.6.11
 langgenius/dify-web:0.6.11
 elasticsearch:8.8.1
 eclipse-temurin:21-jre
+golang:1.20-alpine
